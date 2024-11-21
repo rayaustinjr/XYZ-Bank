@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Deposit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82ccdc7c-256e-497d-8173-8c7ce2b87994</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3c0b34dd-2311-417c-849d-fec76c4317f6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3c0b34dd-2311-417c-849d-fec76c4317f6</id>
+      <masked>false</masked>
+      <name>deposit</name>
+   </variable>
+</TestCaseEntity>

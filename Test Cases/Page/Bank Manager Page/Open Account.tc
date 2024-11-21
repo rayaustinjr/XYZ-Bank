@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Open Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0ac94db7-5d9b-4177-bb88-c4aa5d4b0f95</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bc7d48b3-054f-4ffa-93ef-95ef80012132</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4459a720-7966-43d8-863a-3e3d50ddaa2c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bc7d48b3-054f-4ffa-93ef-95ef80012132</id>
+      <masked>false</masked>
+      <name>customer</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4459a720-7966-43d8-863a-3e3d50ddaa2c</id>
+      <masked>false</masked>
+      <name>currency</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Klik Search Customer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58e5845d-7047-4b22-ba1f-1a5a0b353545</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>21a4a593-dfa2-4230-8268-9e232aaa6935</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>21a4a593-dfa2-4230-8268-9e232aaa6935</id>
+      <masked>false</masked>
+      <name>search</name>
+   </variable>
+</TestCaseEntity>

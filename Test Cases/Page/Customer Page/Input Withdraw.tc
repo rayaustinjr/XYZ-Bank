@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Withdraw</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48670670-f2f7-40bd-854a-2582afeb1e8c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>847753e1-68dd-4e0b-a1d6-b52811d6e116</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>847753e1-68dd-4e0b-a1d6-b52811d6e116</id>
+      <masked>false</masked>
+      <name>withdraw</name>
+   </variable>
+</TestCaseEntity>

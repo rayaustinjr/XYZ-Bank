@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Customer Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ede87191-1c89-4711-82a6-f5d628cdecb1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8c9c922c-b4d4-43ee-b13b-0a73aa29fed5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8c9c922c-b4d4-43ee-b13b-0a73aa29fed5</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+</TestCaseEntity>

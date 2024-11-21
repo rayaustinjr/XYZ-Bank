@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Open Account Failed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8339cdd8-a505-403d-b9b3-39bd644fbadc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8a84331e-7788-406c-9d9a-9286885ca1f1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>490f9295-f133-4942-b7d8-766a17cfc160</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8a84331e-7788-406c-9d9a-9286885ca1f1</id>
+      <masked>false</masked>
+      <name>message</name>
+   </variable>
+   <variable>
+      <defaultValue>'Please select an item in the list.'</defaultValue>
+      <description></description>
+      <id>490f9295-f133-4942-b7d8-766a17cfc160</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Customer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2cfb25bd-354b-44e8-969c-041be2b5bda8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>25832b2c-a1f0-40b6-a7dd-4e87bc00b639</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7c3f7785-a5ac-4a37-bd9d-f89e2ea5e013</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d1f653bc-f67a-45ae-98e5-3ca85d5f7a09</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>25832b2c-a1f0-40b6-a7dd-4e87bc00b639</id>
+      <masked>false</masked>
+      <name>first</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7c3f7785-a5ac-4a37-bd9d-f89e2ea5e013</id>
+      <masked>false</masked>
+      <name>last</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d1f653bc-f67a-45ae-98e5-3ca85d5f7a09</id>
+      <masked>false</masked>
+      <name>code</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MAN002 - User ingin Add Customer dengan field kosong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbd9b031-a1ad-46e2-8ba7-6d762c5e8496</testCaseGuid>
+</TestCaseEntity>

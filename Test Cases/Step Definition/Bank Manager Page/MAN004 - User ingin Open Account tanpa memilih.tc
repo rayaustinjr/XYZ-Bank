@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MAN004 - User ingin Open Account tanpa memilih</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8bb36ea-a331-4c8c-8a64-489a2b3a3ea3</testCaseGuid>
+</TestCaseEntity>

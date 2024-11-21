@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Add Customer Failed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1368172-fae0-4fb8-8762-f394b4735d6b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b45ba780-50c1-45a2-9d01-6b93979cd5c7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bd04e85e-6045-4c3e-9d93-d71b3d131123</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b45ba780-50c1-45a2-9d01-6b93979cd5c7</id>
+      <masked>false</masked>
+      <name>message</name>
+   </variable>
+   <variable>
+      <defaultValue>'Please fill out this field.'</defaultValue>
+      <description></description>
+      <id>bd04e85e-6045-4c3e-9d93-d71b3d131123</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>
